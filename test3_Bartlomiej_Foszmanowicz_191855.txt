@@ -1,0 +1,4 @@
+input0: N
+input1: NTt
+input2: Nt
+input3: T
